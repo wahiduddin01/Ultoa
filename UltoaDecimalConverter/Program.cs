@@ -9,7 +9,6 @@ namespace UltoaDecimalConverter
             Console.WriteLine("Hello World!");
             UI uI = new UI();
             uI.Run();
-
         }
     }
 }
